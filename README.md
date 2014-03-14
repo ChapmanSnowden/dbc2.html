@@ -8,9 +8,9 @@
 		</div>
 		<div id="sidebar">
 			<h3>This is my side bar</h3>
-			    <p>This is the <span class="yellow">yellow</span>option!</p>
-			    <p>This is the<span class="red"> red</span>option!</p>
-				<p>This is the <span class="pink">pink</span>option!</p>
+				<p>This is the <span class="yellow">yellow </span>option!</p>
+				<p>This is the<span class="red"> red </span>option!</p>
+				<p>This is the <span class="pink">pink </span>option!</p>
 		</div>
 		<div id="content-area">
 			<p>This is my content area. This is so interesting look at all the things I have to say. Can I be anymore interesting?</p>
